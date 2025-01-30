@@ -1,5 +1,3 @@
-@file:Suppress("INVISIBLE_MEMBER", "INVISIBLE_REFERENCE")
-
 /*
  * Inspired by https://github.com/Kotlin/kotlinx.coroutines/pull/2378
  */
